@@ -1,19 +1,27 @@
-title: "Iglesias Vázquez, Félix — Research Profile"
+title: "Félix Iglesias Vázquez — Research Profile"
 email: "felix.iglesias@tuwien.ac.at"
 description: "TU Wien"
-baseurl: "/research"  # porque tu sitio está en /research
+baseurl: "/research"
 url: "https://felixig.github.io"
 author:
-  name: "FIV"
+  name: "Félix Iglesias Vázquez"
+  avatar: "/assets/img/felix.jpg"
+  bio: "Researcher at TU Wien. Machine Learning, Network Security."
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:felix.iglesias@tuwien.ac.at"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-000X-XXXX-XXXX"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=XXXX"
 
-theme: minima
-permalink: pretty
-exclude:
-  - "README.md"
-  - "LICENSE.md"
-  - "changelog.md"
-  - ".github"
-  - "scripts"
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+plugins:
+  - jekyll-include-cache
 
 markdown: kramdown
 highlighter: rouge
+permalink: pretty
