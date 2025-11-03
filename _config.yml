@@ -1,3 +1,13 @@
+title: "Iglesias Vázquez, Félix — Senior Scientist"
+email: "felix.iglesias@tuwien.ac.at"
+description: "Artificial Intelligencia, Machine Learning, Data Analysis"
+baseurl: "/research"  
+url: "https://felixig.github.io"
+author:
+  name: "FIV"
+theme: minima
+
+
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
@@ -5,12 +15,6 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 
-# Themes are encouraged to use these universal variables
-# so be sure to set them if your theme uses them.
-#
-title : Kim(Taekwon)Do
-author :
-  name : FIV
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
