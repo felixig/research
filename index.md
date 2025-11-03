@@ -7,7 +7,7 @@ description: Research Webpage
 
 <img src="{{ '/assets/fiv_portrait.jpg' | relative_url }}" 
      alt="Félix Iglesias Vázquez" 
-     style="float: right; width: 180px; margin: 0 0 1em 1.5em; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
+     style="float: right; width: 220px; margin: 0 0 1em 1.5em; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
 
 
 ### Affiliation and Research Topics
@@ -19,7 +19,7 @@ He applies these approaches across diverse domains in both academia and industry
 
 ---
 
-#### Research Profiles
+### Research Profiles
 
 - [reposiTUM](https://repositum.tuwien.at/cris/rp/rp09116/publications.html)
 - [ORCID](https://orcid.org/0000-0001-6081-969X) 
@@ -27,7 +27,7 @@ He applies these approaches across diverse domains in both academia and industry
 
 ---
 
-#### Research Assets
+### Research Assets
 
 - [Publications](pages/publications.html)
 - [Projects](pages/projects.html)
