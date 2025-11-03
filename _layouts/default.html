@@ -4,3 +4,7 @@ theme :
 ---
 {% include JB/setup %}
 {% include themes/twitter/default.html %}
+{% if page.google-site-verification %}
+<meta name="google-site-verification" content="{{ page.google-site-verification }}">
+{% endif %}
+
