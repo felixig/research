@@ -1,16 +1,24 @@
 ---
 layout: page
-title: Dipl-Ing. Dr.techn Félix Iglesias Vázquez
-tagline: TU Wien
-description: Research on Artificial Intelligence, Machine Learning and Data Analysis
+title: F.Iglesias
+tagline: Senior Scientist
+description: Research Webpage
 ---
 
-# Research on Artificial Intelligence, Machine Learning and Data Analysis
+## Research Profile
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dipl.-Ing. Dr.-techn. Félix Iglesias Vázquez is a Senior Scientist at the *Communications Network Group*, Institute of Telecommunications (ETIT), TU Wien.
+His research focuses on data analysis methodologies, machine learning, and artificial intelligence, with particular expertise in supervised learning, anomaly detection, and time-dependent data analysis (stream data and time series).
+
+He applies these methods across diverse domains in both academia and industry, including network security, building automation, the Internet of Things, and the Environmental Sciences.
+
+- [reposiTUM](https://repositum.tuwien.at/cris/rp/rp09116/publications.html)
+- [ORCID](https://orcid.org/0000-0001-6081-969X) 
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=vbjrIPcAAAAJ)
+
+## Research Profile
 
 - [Publications](pages/publications.html)
 - [Projects](pages/projects.html)
 
 
----
