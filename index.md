@@ -7,7 +7,7 @@ description: Research Webpage
 
 <img src="{{ '/assets/fiv_portrait.jpg' | relative_url }}" 
      alt="Félix Iglesias Vázquez" 
-     style="float: right; width: 220px; margin: 0 0 1em 1.5em; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
+     style="float: right; width: 250px; margin: 0 0 1em 1.5em; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
 
 
 ### Affiliation and Research Topics
