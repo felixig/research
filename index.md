@@ -25,10 +25,4 @@ He applies these approaches across diverse domains in both academia and industry
 - [ORCID](https://orcid.org/0000-0001-6081-969X) 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=vbjrIPcAAAAJ)
 
----
-
-### Research Assets
-
-- [Publications](pages/publications.html)
-- [Projects](pages/projects.html)
 
